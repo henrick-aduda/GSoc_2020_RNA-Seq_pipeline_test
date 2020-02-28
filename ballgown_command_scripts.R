@@ -21,4 +21,4 @@ system('head -1000 /home/henrick/tablemaker/tablemaker-2.1.1.Linux_x86_64/
        transcript_fpkm_brain_C1.csv > /home/henrick/tablemaker/
        tablemaker-2.1.1.Linux_x86_64/transcript_fpkm_brain_C1_1000.csv')
 
-#Thats all for now. Look foward to working with you. I really enjoyed working on the dataset.
+#Thats all for now. For real this time. lol
