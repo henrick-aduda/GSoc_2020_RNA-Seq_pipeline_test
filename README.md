@@ -25,6 +25,6 @@ This is the selection test response for the GSoc 2020 project on Creating a new 
 
 7. Used texpr function to generate a transcript matrix for both samples.
 
-The first 1000 lines of both GTF files generated using StringTie2 can be found on **long_reads_brain_C1_1000_gtf.txt** and **long_reads_liver_C1_1000_gtf.txt**
+The first 1000 lines of both GTF files generated using StringTie v2 can be found on **long_reads_brain_C1_1000_gtf.txt** and **long_reads_liver_C1_1000_gtf.txt**
 
-The first 1000 lines of the FPKM matrix produced by Ballgown, saved as a csv can be found on: **transcript_fpkm_brain_C1_1000.csv** and **transcript_fpkm_liver_C1_1000.csv**
+The first 1000 lines of the FPKM matrix produced by Ballgown, saved as a csv, can be found on: **transcript_fpkm_brain_C1_1000.csv** and **transcript_fpkm_liver_C1_1000.csv**
