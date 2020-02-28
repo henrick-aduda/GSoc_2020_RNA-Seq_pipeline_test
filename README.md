@@ -19,9 +19,9 @@ This is the selection test response for the GSoc 2020 project on Creating a new 
  wget http://www.genoscope.cns.fr/externe/ONT_mouse_RNA/data/transcriptome/RNA_nanopore.liver.C1R1_mapping_E94_minimap2_primary_no_read_less_than_80QC.bam
 ```
 
-4. Used StringTie v2 long-read mode to generate a GTF file for each of these samples. Please find the commands used on **stringtie_tablemaker.sh_ bash script**
-5. Ran Tablemaker on the two samples above using tablemaker. Please find the commands used on the **stringtie_tablemaker.sh bash script**
-6. I imported the output of Tablemaker into R using Ballgown. Please find the Rscript with ballgown commands on **ballgown_command_scripts.R**
+4. Used StringTie v2 long-read mode to generate a GTF file for each of these samples. Please find the commands used on **stringtie_tablemaker_commands.sh_ bash script**
+5. Ran Tablemaker on the two samples above using tablemaker. Please find the commands used on the **stringtie_tablemaker_commands.sh bash script**
+6. I imported the output of Tablemaker into R using Ballgown. Please find the Rscript with ballgown commands on **ballgown_commands.R**
 
 7. Used texpr function to generate a transcript matrix for both samples.
 
